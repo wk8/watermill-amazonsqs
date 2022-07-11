@@ -1,0 +1,3 @@
+wkpo:
+	go test -v -count=1 -test.run TestWkpo ./...
+
